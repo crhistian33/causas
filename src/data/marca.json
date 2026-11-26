@@ -1,9 +1,9 @@
 {
-  "nombre": "Mi Emprendimiento",
+  "nombre": "causilovers",
   "eslogan": "Escribe aquí tu eslogan",
-  "logo": "logo.svg",
+  "logo": "logo-main.png",
   "colores": {
-    "principal": "#1F6F5B",
+    "principal": "#F59000",
     "secundario": "#F4B942",
     "fondo": "#F6F8F7",
     "texto": "#1B2430"
@@ -14,25 +14,25 @@
   },
   "esquinas": "suaves",
   "portada": {
-    "badge": "⭐ 100% Pura Fruta Natural",
-    "titulo": "Marcianos de pura fruta",
-    "subtitulo": "Refrescantes, deliciosos y preparados artesanalmente con fruta fresca seleccionada.",
-    "productoDestacado": "Marciano de Fresa",
-    "imagen": "productos/producto-1.svg",
+    "badge": "⭐ 100% hecho en casa",
+    "titulo": "Causas Rellenas al Instante",
+    "subtitulo": "Suaves, sabrosas y preparadas al día con papa amarilla seleccionada, ají amarillo fresco y rellenos generosos.",
+    "productoDestacado": "Causa Rellena de Pollo",
+    "imagen": "productos/causa.jpeg",
     "textoBoton": "Ver productos",
     "textoBotonSecundario": "Pedir por WhatsApp"
   },
   "nosotros": {
     "titulo": "Quiénes somos",
-    "texto": "Somos estudiantes de secundaria y creamos este emprendimiento durante el curso de Educación para el Trabajo. Aquí cuentas cómo nació tu idea y qué problema resuelve.",
+    "texto": "Somos estudiantes de secundaria y creamos este emprendimiento en el curso de Educación para el Trabajo. Nacimos con la idea de ofrecer una opción rica, nutritiva y accesible para el antojo o el almuerzo rápido, rescatando la receta tradicional casera con ingredientes frescos.",
     "puntos": [
-      "Productos hechos con cuidado",
-      "Precios justos",
-      "Atención directa por WhatsApp"
+      "Ingredientes frescos y preparación del día",
+      "Porciones generosas a precios justos",
+      "Pedidos rápidos y atención directa por WhatsApp"
     ]
   },
   "contacto": {
-    "whatsapp": "51980528386",
+    "whatsapp": "51941799651",
     "mensaje": "Hola, quiero más información sobre sus productos",
     "horario": "Lunes a viernes, de 3:00 p. m. a 6:00 p. m.",
     "instagram": "",

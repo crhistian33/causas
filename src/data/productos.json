@@ -1,28 +1,34 @@
 [
   {
-    "nombre": "Marciano de Fresa",
-    "descripcion": "Elaborado con fresas seleccionadas, refrescante y con el dulzor exacto.",
-    "precio": 2.5,
-    "imagen": "productos/producto-1.svg",
-    "etiqueta": "Más vendido",
+    "nombre": "CAUSA DE POLLO",
+    "descripcion": "",
+    "precio": 5,
+    "imagen": "productos/causa.jpeg",
     "destacado": true
   },
   {
-    "nombre": "Nombre del producto 2",
-    "descripcion": "Máximo 110 caracteres: qué es, de qué está hecho o para qué sirve.",
-    "precio": 8,
-    "imagen": "productos/producto-2.svg"
+    "nombre": "CAUSA DE MOLLEJA",
+    "descripcion": "",
+    "precio": 5,
+    "imagen": "productos/causa3.jpg"
   },
   {
-    "nombre": "Nombre del producto 3",
-    "descripcion": "Cuenta lo más importante en una sola frase.",
-    "precio": 15,
-    "imagen": "productos/producto-3.svg"
+    "nombre": "CAUSA DE ATUN",
+    "descripcion": "",
+    "precio": 5,
+    "imagen": "productos/causa2.jpg"
   },
   {
-    "nombre": "Nombre del producto 4",
-    "descripcion": "Recuerda: cada producto lleva su foto real y su precio en soles.",
-    "precio": 20,
-    "imagen": "productos/producto-4.svg"
+    "nombre": "CAUSA + CHICHA",
+    "descripcion": "",
+    "precio": 6,
+    "imagen": "productos/causachicha.jpg",
+    "etiqueta": "Promoción"
+  },
+  {
+    "nombre": "CHICHA MORADA",
+    "descripcion": "",
+    "precio": 1.5,
+    "imagen": "productos/chicha.jpg"
   }
 ]
