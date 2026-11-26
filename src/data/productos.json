@@ -1,33 +1,33 @@
 [
   {
     "nombre": "CAUSA DE POLLO",
-    "descripcion": "",
+    "descripcion": "Suave masa de papa amarilla sazonada con ají amarillo y limón, rellena de jugoso pollo deshilachado con mayonesa, palta fresca y decorada con huevo y aceituna.",
     "precio": 5,
     "imagen": "productos/causa.jpeg",
     "destacado": true
   },
   {
     "nombre": "CAUSA DE MOLLEJA",
-    "descripcion": "",
+    "descripcion": "Causa tradicional rellena con tiernas mollejitas aderezadas al estilo criollo, láminas de palta cremosa y un toque de salsa acevichada.",
     "precio": 5,
     "imagen": "productos/causa3.jpg"
   },
   {
     "nombre": "CAUSA DE ATUN",
-    "descripcion": "",
+    "descripcion": "Clásica causa limeña rellena de filete de atún mezclado con cebolla roja picada, mayonesa y palta fresca, coronada con huevo sancochado y aceituna.",
     "precio": 5,
     "imagen": "productos/causa2.jpg"
   },
   {
     "nombre": "CAUSA + CHICHA",
-    "descripcion": "",
+    "descripcion": "Combo ideal para tu antojo: una porción de nuestra causa rellena a elección acompañada de una refrescante botella de chicha morada casera de 600 ml.",
     "precio": 6,
     "imagen": "productos/causachicha.jpg",
     "etiqueta": "Promoción"
   },
   {
     "nombre": "CHICHA MORADA",
-    "descripcion": "",
+    "descripcion": "Bebida 100% natural preparada en casa con maíz morado, piña, canela, clavo de olor y un toque de limón. Presentación personal en botella de 600 ml.",
     "precio": 1.5,
     "imagen": "productos/chicha.jpg"
   }
